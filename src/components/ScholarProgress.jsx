@@ -19,7 +19,7 @@ const ScholarProgress = () => {
                           <tbody>
                               <tr>
                                   <td>Akinyi Zawada</td>
-                                  <td><div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+                                  <td className='px-4 py-4 text-center'><div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
                                       <div class="bg-[#395241] h-2.5 rounded-full w-[65%]" ></div>
                                   </div></td>
                                   <td className='flex items-center'>More <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-4 h-4">
