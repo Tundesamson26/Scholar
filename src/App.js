@@ -2,7 +2,11 @@
 // import Confirmation from "./components/Confirmation";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+
+import Footer from "./components/Footer";
+
 import ScholarProgress from "./components/ScholarProgress";
+
 
 export default function Home() {
   return (
@@ -10,6 +14,9 @@ export default function Home() {
       {/* <Navbar />
       <Hero /> */}
       {/* <Banner/> */}
+
+      <Footer />
+
       {/* <Confirmation /> */}
       <ScholarProgress />
       </>
