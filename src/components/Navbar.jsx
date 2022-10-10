@@ -1,4 +1,8 @@
+
 import React, { useState } from "react";
+
+import { NavLink } from "react-router-dom";
+
 import { ConnectWallet } from "@thirdweb-dev/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 
