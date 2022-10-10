@@ -23,15 +23,15 @@ const Hero = () => {
               Read more
             </button>
           </div>
-          <div className="m-4">
-            <div className="flex md:flex-row justify-between py-8 px-8 ">
-              <div className="text-center ">
+          <div className="w-11/12 m-auto">
+            <div className="flex md:flex-row justify-between py-8 px-8 md:w-16">
+              <div className="text-center">
                 <h3 className="text-2xl font-bold ">23</h3>
                 <p className="text-[#2B3035] text-bold">
                   Scholarships <br /> funded
                 </p>
               </div>
-              <div className="text-center ">
+              <div className="text-center">
                 <h3 className="text-2xl font-bold ">1</h3>
                 <p className="text-[#2B3035] text-bold">
                   Remaining <br />
